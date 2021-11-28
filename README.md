@@ -1,5 +1,7 @@
 # Sohyeon Cho (Bailey)
 
+<img src="https://img.shields.io/badge/bae12.jo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 ![Bae12-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae12-jo&show_icons=true&theme=vue)
 
 ### Languages & Platforms
