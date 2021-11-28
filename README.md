@@ -1,6 +1,6 @@
 # Sohyeon Cho (Bailey)
 
-![Bae12-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae12-jo&show_icons=true&theme=gotham)
+![Bae12-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae12-jo&show_icons=true&theme=vue)
 
 ### Languages & Platforms
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
