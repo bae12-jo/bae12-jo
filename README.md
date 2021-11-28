@@ -1,8 +1,5 @@
 # Sohyeon Cho (Bailey)
 
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 ![Bae12-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae12-jo&show_icons=true&theme=gotham)
 
 ### Languages & Platforms
