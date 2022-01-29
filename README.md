@@ -9,15 +9,20 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
 
 ### experience in
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/graphql-E10098?style=flat-square&logo=graphql&logoColor=white"/>&nbsp;
+
+### tools
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/webstorm-000000?style=flat-square&logo=webstorm&logoColor=white"/>&nbsp;
