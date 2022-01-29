@@ -30,7 +30,6 @@
 <img src="https://img.shields.io/badge/jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/typeorm-262627?style=flat-square&logo=typeorm&logoColor=white"/>&nbsp;
 
 ### tools
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
