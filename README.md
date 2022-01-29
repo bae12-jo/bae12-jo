@@ -7,7 +7,6 @@
 
 ### mostly use
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
 
@@ -21,8 +20,11 @@
 <img src="https://img.shields.io/badge/angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/graphql-E10098?style=flat-square&logo=graphql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/ionic-3880FF?style=flat-square&logo=ionic&logoColor=white"/>&nbsp;
 
 ### tools
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/webstorm-000000?style=flat-square&logo=webstorm&logoColor=white"/>&nbsp;
