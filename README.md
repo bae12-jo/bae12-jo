@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/amazon s3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
 
 ### learned recently
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;
@@ -30,6 +31,9 @@
 <img src="https://img.shields.io/badge/jasmine-8A4182?style=flat-square&logo=jasmine&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>&nbsp;
 
 ### tools
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
