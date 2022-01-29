@@ -8,7 +8,7 @@
 ### mostly use
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typscript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
 
 ### experience in
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>&nbsp;
