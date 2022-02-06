@@ -6,7 +6,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=bae12)](https://solved.ac/bae12)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bae12)](https://solved.ac/bae12)
 
 
 ### mostly use
