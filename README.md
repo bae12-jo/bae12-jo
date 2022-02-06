@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/bae12.jo@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/>
 
-![Bae12-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae12-jo&show_icons=true&theme=gradient)
+![Bae12-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae12-jo&show_icons=true&theme=dracula)
 
 
 [![Solved.ac
