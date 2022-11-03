@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/amazon s3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;
 
 ### learned recently
