@@ -1,9 +1,10 @@
 # Sohyeon Cho (Bailey)
 
-<img src="https://img.shields.io/badge/bae12.jo@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"/>
+<div align="center">
+  
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter) 
 
-![Bae12-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bae12-jo&show_icons=true&theme=dracula)
+</div>
 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bae12)](https://solved.ac/bae12)
+* 🏢 Currenlty work on [Amazon Web Services](https://aws.amazon.com/)
+* 🎓 Bachelor of Computer Science and Engineering, Music
