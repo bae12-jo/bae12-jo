@@ -7,5 +7,5 @@
 
 </div>
 
-* 🏢 Currenlty work on [Amazon Web Services](https://aws.amazon.com/)
+* 🏢 Currently work on [Amazon Web Services](https://aws.amazon.com/)
 * 🎓 Bachelor of Computer Science and Engineering, Music
